@@ -7,5 +7,21 @@
   "overgame": "overgame/overgame.wav",
   "giveittome": ["giveittome/ah.wav", "giveittome/chorus.wav"],
   "ecotone": "ecotone/ecotone.wav",
-  "technologic": "technologic/technologic_vox.wav"
+  "technologic": "technologic/technologic_vox.wav",
+  "stromae": [
+    "stromae/90-nn-xt-A2wav",
+    "stromae/90-nn-xt-A2.wav",
+    "stromae/90-nn-xt-E3.wav",
+    "stromae/90-nn-xt-F#3.wav",
+    "stromae/90-nn-xt-C#3.wav",
+    "stromae/90-nn-xt-F#2.wav",
+    "stromae/forver-voicerz.wav",
+    "stromae/kick.wav",
+    "stromae/sax-09-06.wav",
+    "stromae/veh2-closed-hihats-010.wav",
+    "stromae/clap.wav",
+    "stromae/hitright.wav",
+    "stromae/sax-09-06-aligned.wav",
+    "stromae/vec3-fx-impact-14.wav"
+  ]
 }
